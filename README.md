@@ -1,2 +1,2 @@
 # printf
-This is a project done by the team ( Sarpong Twum Barimah, Richmond Teye Addo) for alx printf task
+This is a project done by Precious for alx printf task
